@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    amcharts-rails (0.0.1)
+    amcharts-rails (2.7.7.1.0)
       rails (~> 3.2.8)
 
 GEM
