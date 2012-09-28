@@ -7,11 +7,11 @@ require "amcharts-rails/version"
 Gem::Specification.new do |s|
   s.name        = "amcharts-rails"
   s.version     = AmchartsRails::VERSION
-  s.authors     = ["TODO: Mike MacDonald"]
-  s.email       = ["TODO: crazymykl@gmail.com"]
+  s.authors     = ["Mike MacDonald"]
+  s.email       = ["crazymykl@gmail.com"]
   s.homepage    = "https://github.com/crazymykl/amcharts-rails"
   s.summary     = "Integrates amCharts javascript charts with rails."
-  s.description = "TODO: Description of AmchartsRails."
+  s.description = ""
 
   s.files = Dir["{vendor/assets/*/amcharts/*,app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
