@@ -1,3 +1,3 @@
 module AmchartsRails
-  VERSION = "0.0.1"
+  VERSION = "2.7.7_1.0"
 end
