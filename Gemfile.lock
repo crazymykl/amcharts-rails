@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     amcharts-rails (2.7.7.1.0)
-      rails (~> 3.2.8)
+      rails (~> 3.1)
 
 GEM
   remote: http://rubygems.org/
